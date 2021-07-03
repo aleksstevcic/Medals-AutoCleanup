@@ -5,6 +5,11 @@ Cleans up old clips from medals, with configurable max-time retention. Default i
 
 REQUIRES that medal be restarted for old clips to disappear from its database. I am not going to handle that, since that will inevitably cause issues if it auto-restarts when the script runs.
 
+## Required
+  - Python (not sure what version. 2.7 might work, but no earlier).
+  - Text editor
+  - Very basic knowledge with Task Scheduler in Windows
+
 ## Install
 1. Copy the three files from this repository.
 2. Extract them to a location. Any location is fine, so long as they all exist in the same folder.
