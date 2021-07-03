@@ -11,7 +11,7 @@ REQUIRES that medal be restarted for old clips to disappear from its database. I
   - Very basic knowledge with Task Scheduler in Windows
 
 ## Install
-1. Copy the three files from this repository.
+1. Copy the three files from this repository. At the top right, click "Code" dropdown, then click "Download ZIP".
 2. Extract them to a location. Any location is fine, so long as they all exist in the same folder.
 3. Edit MedalsRM.bat according to the configuration section below. All three paths **have to be filled out**.
 4. Also edit MedalsRM.vbs and change the file location to point to the batch file.
