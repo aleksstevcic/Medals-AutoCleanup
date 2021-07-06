@@ -33,6 +33,6 @@ There are four different variables to configure in MedalsRM.bat. It is required.
 | timetodelete  | Delete files older than this number, in days | 7  |  No  |
 
 
-There is one thing to configure in MedalsRM.bat. It is required.
+There is one thing to configure in MedalsRM.vbs. It is required.
 
 CreateObject("Wscript.Shell").Run "**Replace everything between these quotes with the location to your bat file**", 0, False
